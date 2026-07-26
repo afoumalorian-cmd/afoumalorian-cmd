@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Lorian Afouma</h1>
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Lorian Afouma — Backend and Data Engineer"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Lorian Afouma</h1>
 
 <h3 align="center">
-Backend Developer | Django Developer | Data Engineering Enthusiast
+  Backend Developer | Data Engineer | Mobile Developer
 </h3>
 
 <p align="center">
-I build backend APIs, data-driven applications and useful digital solutions.
+  Building backend APIs, data-driven systems and useful mobile applications.
 </p>
 
----
+<p align="center">
+  <a href="mailto:afoumalorian@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/elvis-afouma">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<hr>
 
 ## 👨‍💻 About Me
 
