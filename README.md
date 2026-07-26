@@ -165,17 +165,6 @@ Main technologies and features:
 
 ---
 
-## 📚 Currently Learning
-
-- AWS Cloud
-- Data Engineering
-- CI/CD
-- Kubernetes
-- Advanced Django architecture
-- Machine Learning deployment
-
----
-
 ## 📫 Contact
  
 - Email: afoumalorian@gmail.com
