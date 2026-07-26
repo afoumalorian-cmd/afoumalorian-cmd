@@ -49,12 +49,10 @@ Professional Django backend project developed within my company.
 Main areas I have worked on:
 
 - REST API development with Django REST Framework
-- Employee and service management
+- Employees, Services & Departments management
+- ETL
 - Report upload, download and search APIs
-- Excel data import
 - Swagger/OpenAPI documentation
-- Unit and integration testing
-- Locust performance testing
 - Docker development environment
 - SonarQube code-quality analysis
 
@@ -77,8 +75,6 @@ Main technologies and features:
 - GoRouter navigation
 
 > The repository is currently private.
-
----
 
 ---
 
