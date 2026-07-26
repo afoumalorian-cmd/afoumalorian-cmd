@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/github-banner.png"
+    src="./github-banner.png"
     alt="Lorian Afouma — Backend and Data Engineer"
     width="100%"
   />
