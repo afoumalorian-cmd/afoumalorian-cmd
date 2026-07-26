@@ -183,7 +183,7 @@ Main technologies and features:
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="tel:+33746384824">
         <img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
       </a>
@@ -205,7 +205,7 @@ Main technologies and features:
       </a>
     </td>
 
-    <td align="center">
+  <td align="center">
       <a href="https://github.com/TON-USERNAME">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
