@@ -117,11 +117,7 @@ Main technologies and features:
 - PostgreSQL database integration and data modeling
 - Authentication, authorization and multi-tenant application development
 - CRUD API development and custom Django ViewSet actions
-- API documentation with Swagger and OpenAPI
-- Unit and integration testing with Pytest
-- Performance and load testing with Locust
-- Code-quality analysis with SonarQube
-- Dockerized development environments
+- Docker, Kubernets, testing and code quality
 - Container orchestration fundamentals with Kubernetes
 - Big Data processing with Apache Spark and Hadoop
 - Event streaming and distributed messaging with Apache Kafka
@@ -161,16 +157,75 @@ Main technologies and features:
 - Attention to detail and code quality
 - Ability to understand business requirements
 - Autonomy and sense of responsibility
-- Technical documentation and knowledge sharing
+
+---
+## 🌍 Languages
+
+- 🇫🇷 French — Bilingual
+- 🇬🇧 English — Bilingual
+- 🇷🇺 Russian — Bilingual
 
 ---
 
 ## 📫 Contact
- 
-- Email: afoumalorian@gmail.com
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:afoumalorian@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br />
+      <a href="mailto:afoumalorian@gmail.com">
+        afoumalorian@gmail.com
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="tel:+33746384824">
+        <img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br />
+      <a href="tel:+33746384824">
+        +33 7 46 38 48 24
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/elvis-afouma">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/elvis-afouma">
+        linkedin.com/in/elvis-afouma
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/TON-USERNAME">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="https://github.com/TON-USERNAME">
+        My GitHub Profile
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <p align="center">
-Made with ❤️ and continuous learning
+  💡 <em>"Building useful solutions through code, data and continuous learning."</em> 💡
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE_WITH-❤️-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/THANKS_FOR-VISITING-008ACB?style=for-the-badge" />
 </p>
