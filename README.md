@@ -105,9 +105,8 @@ Main technologies and features:
 ---
 
 ## 📫 Contact
-
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your professional email here
+ 
+- Email: afoumalorian@gmail.com
 
 ---
 
