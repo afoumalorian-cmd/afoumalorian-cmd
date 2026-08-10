@@ -1,70 +1,169 @@
-<p align="center">
-  <img
-    src="./github-banner.png"
-    alt="Lorian Afouma — Backend and Data Engineer"
-    width="100%"
-  />
-</p>
+# Hi there 👋, I'm Lorian Afouma
 
-<h1 align="center">Hi there 👋, I'm Lorian Afouma</h1>
+### Backend Developer | Data Engineer | Mobile Developer
 
-<h3 align="center">
-  Backend Developer | Data Engineer | Mobile Developer
-</h3>
+Building backend APIs, data-driven systems, cloud-ready applications and useful mobile solutions.
 
-<p align="center">
-  Building backend APIs, data-driven systems and useful mobile applications.
-</p>
-
-<p align="center">
-  <a href="mailto:afoumalorian@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/elvis-afouma">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<hr>
+---
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working on backend development for **WorkySafe**
-- 🚚 Building **Sharp Sharp**, a personal delivery application
-- 🐍 Working mainly with **Python and Django**
-- 📱 Learning and building applications with **Flutter**
-- 🐳 Interested in Docker, APIs, databases and cloud technologies
-- ☁️ Currently improving my AWS and DevOps skills
+- 💼 Working on professional backend development with **Python, Django and Django REST Framework**
+- 📊 Developing my expertise in **Data Engineering and data pipelines**
+- 🚚 Building **Sharp Sharp**, a personal delivery mobile application
+- 🐍 Working mainly with **Python**
+- 🗄️ Experienced with **PostgreSQL, Redis and data modeling**
+- 🐳 Building and deploying applications using **Docker & Docker Compose**
+- ☁️ Improving my **Cloud, AWS, CI/CD and DevOps** skills
+- 📱 Building mobile applications with **Flutter & Dart**
+- 🧪 Focused on testing, code quality and maintainable software architecture
 - 📍 Based in France
 
 ---
 
-## 🚀 Current Projects
+# 🏆 Achievements & Completed Projects
 
-### 🏢 WorkySafe
+## 🌦️ Euro Weather
 
-Professional Django backend project developed within my company.
+A full-stack weather platform built from scratch and deployed to the cloud.
 
-Main areas I have worked on:
+The project covers backend development, frontend development, databases,
+caching, containerization, testing and production deployment.
+
+### Backend
+
+- Python
+- Django
+- Django REST Framework
+- REST API architecture
+- JWT authentication
+- PostgreSQL
+- External weather APIs
+- Geocoding and reverse geocoding
+- Error handling and API validation
+
+### Frontend
+
+- React
+- Vite
+- JavaScript
+- Authentication flow
+- Protected routes
+- API integration
+- Favorite cities
+- Current weather
+- Daily forecasts
+- Hourly forecasts
+- Historical weather data
+- User location support
+
+### Data & Performance
+
+- PostgreSQL data modeling
+- Redis caching
+- Cache expiration strategies
+- Shared cache between application instances
+- API response optimization
+
+### DevOps & Deployment
+
+- Docker
+- Docker Compose
+- Production Docker configuration
+- Environment variable management
+- `.env` / `.env.example` configuration
+- Cloud deployment with Render
+- PostgreSQL cloud database
+- Redis cloud integration
+
+### Testing & Quality
+
+- Backend unit tests
+- API tests
+- Frontend tests
+- pytest
+- Git feature branches
+- Production configuration validation
+
+> ✅ Successfully developed and deployed as a complete full-stack application.
+
+---
+
+## 🏢 WorkySafe
+
+Professional backend project developed within my company.
+
+I contribute to the development and maintenance of a production-oriented
+Django application.
+
+### Main areas I have worked on
 
 - REST API development with Django REST Framework
-- Employees, Services & Departments management
-- ETL
-- Report upload, download and search APIs
-- Swagger/OpenAPI documentation
+- Employee management
+- Services and departments management
+- Multi-tenant architecture
+- Authentication and authorization
+- Business logic implementation
+- Excel data import and processing
+- ETL workflows
+- Report upload APIs
+- Report download APIs
+- Search APIs
+- Custom Django ViewSet actions
+- Swagger / OpenAPI documentation
 - Docker development environment
+- Unit and integration testing
 - SonarQube code-quality analysis
+- GitLab development workflow
+- Agile / Scrum development
 
-> The source code is private and belongs to the company.
+> 🔒 The source code is private and belongs to the company.
 
-### 🚚 Sharp Sharp
+---
 
-Personal delivery application currently under development.
+# 🚀 Current Projects
 
-Main technologies and features:
+## ✈️ Global Flight Data Pipeline
+
+Data Engineering project focused on building a production-style pipeline
+for global aviation data.
+
+### Main objectives
+
+- Flight data ingestion
+- Airline and airport data ingestion
+- Raw data storage
+- Data cleaning and transformation
+- PostgreSQL analytical database
+- ETL / ELT pipelines
+- Apache Airflow orchestration
+- Scheduled pipelines
+- Retry and failure management
+- Logging and monitoring
+- Data Quality checks
+- Analytical SQL
+- Dockerized infrastructure
+- Automated testing
+- CI/CD
+
+### Technologies
+
+`Python` `PostgreSQL` `Docker` `Airflow` `SQL` `pytest` `GitHub Actions`
+
+Future additions may include:
+
+`dbt` `AWS` `Data Warehousing` `Cloud Storage`
+
+---
+
+## 🚚 Sharp Sharp
+
+Personal delivery mobile application currently under development.
+
+### Technologies & Features
 
 - Flutter
+- Dart
 - Firebase Authentication
 - Cloud Firestore
 - Google Maps
@@ -73,94 +172,158 @@ Main technologies and features:
 - Order tracking
 - Riverpod state management
 - GoRouter navigation
+- Mobile application architecture
 
-> The repository is currently private.
+> 🔒 The repository is currently private.
 
 ---
 
+# 🛠️ Tech Stack & Tools
+
+### 🐍 Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 📊 Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+`ETL / ELT` `Data Pipelines` `Data Quality` `Analytical SQL`
+
+### 🎨 Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🐳 DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+`Docker Compose` `CI/CD` `Render` `Linux` `PowerShell`
+
+### 🧪 Testing & Code Quality
+
+`pytest` `Unit Testing` `Integration Testing` `API Testing` `SonarQube`
+
 ---
 
-## 🛠️ Stack & Tools
+# 🧠 Key Skills
+
+### Backend Engineering
+
+- REST API development with Python
+- Django and Django REST Framework
+- Backend architecture and business logic
+- Authentication and authorization
+- JWT authentication
+- Multi-tenant application development
+- CRUD APIs
+- Custom Django ViewSet actions
+- External API integration
+- Error handling and validation
+
+### Data Engineering
+
+- ETL / ELT concepts
+- Data ingestion
+- Data cleaning and transformation
+- Data pipeline architecture
+- PostgreSQL data modeling
+- Analytical SQL
+- Data Quality concepts
+- Batch processing
+- Workflow orchestration
+- Apache Airflow fundamentals
+- Processing Excel and structured datasets
+
+### Databases & Performance
+
+- PostgreSQL
+- Relational data modeling
+- SQL
+- Redis
+- Application caching
+- Database integration
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Environment management
+- Cloud deployment
+- GitHub & GitLab workflows
+- Branch-based development
+- CI/CD fundamentals
+- SonarQube
+- Production configuration
+
+### Mobile Development
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Riverpod
+- GoRouter
+- Google Maps integration
+- Address autocomplete
+
+---
+
+# 📚 Currently Learning
+
+I am currently strengthening my skills in:
+
+- 🏗️ Advanced Data Engineering
+- ✈️ Production-grade Data Pipelines
+- 🌬️ Apache Airflow
+- 🔄 dbt
+- ☁️ AWS
+- 🚀 CI/CD
+- ☸️ Kubernetes
+- 🏢 Data Warehousing
+- 📊 Advanced SQL
+- 🏛️ Advanced backend architecture
+- 📡 Distributed systems and event-driven architectures
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/DJANGO_REST_FRAMEWORK-A30000?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SPARK-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-
-<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/GOOGLE_MAPS-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SONARQUBE-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/LOCUST-2D9A45?style=flat-square&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=afoumalorian-cmd&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=afoumalorian-cmd&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
-
-## 🧠 Key Skills
-
-- REST API development with Python, Django and Django REST Framework
-- Backend architecture and business logic implementation
-- PostgreSQL database integration and data modeling
-- Authentication, authorization and multi-tenant application development
-- CRUD API development and custom Django ViewSet actions
-- Docker, Kubernets, testing and code quality
-- Container orchestration fundamentals with Kubernetes
-- Big Data processing with Apache Spark and Hadoop
-- Event streaming and distributed messaging with Apache Kafka
-- Machine Learning and Deep Learning with TensorFlow and PyTorch
-- Mobile application development with Flutter and Dart
-- Firebase Authentication and Cloud Firestore integration
-- Google Maps and address autocomplete integration
-- Data import and processing from Excel files
-- Git, GitHub and GitLab workflows
-- Agile and Scrum project organization
-
----
-
-## 🔥 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS_CLOUD-IN_PROGRESS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA_ENGINEERING-LEARNING-3776AB?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-LEARNING-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/KUBERNETES-LEARNING-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=afoumalorian-cmd&theme=tokyonight&hide_border=true"
+  />
 </p>
-
-> 🚀 Currently improving my skills in AWS, Data Engineering, CI/CD, Kubernetes and advanced backend architecture.
 
 ---
 
-## 🤝 Soft Skills
+# 🤝 Soft Skills
 
 - Clear communication and technical explanation
 - Teamwork and cross-functional collaboration
@@ -173,7 +336,8 @@ Main technologies and features:
 - Autonomy and sense of responsibility
 
 ---
-## 🌍 Languages
+
+# 🌍 Languages
 
 - 🇫🇷 French — Bilingual
 - 🇬🇧 English — Bilingual
@@ -181,65 +345,17 @@ Main technologies and features:
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-<div align="center">
+<p align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:afoumalorian@gmail.com">
-        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br />
-      <a href="mailto:afoumalorian@gmail.com">
-        afoumalorian@gmail.com
-      </a>
-    </td>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afoumalorian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-afouma)
 
-  <td align="center">
-      <a href="tel:+33746384824">
-        <img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-      </a>
-      <br />
-      <a href="tel:+33746384824">
-        +33 7 46 38 48 24
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/elvis-afouma">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://www.linkedin.com/in/elvis-afouma">
-        linkedin.com/in/elvis-afouma
-      </a>
-    </td>
-
-  <td align="center">
-      <a href="https://github.com/TON-USERNAME">
-        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://github.com/TON-USERNAME">
-        My GitHub Profile
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+</p>
 
 ---
 
 <p align="center">
-  💡 <em>"Building useful solutions through code, data and continuous learning."</em> 💡
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MADE_WITH-❤️-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/THANKS_FOR-VISITING-008ACB?style=for-the-badge" />
+  <i>Building reliable APIs, data pipelines and applications one project at a time.</i>
 </p>
