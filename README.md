@@ -209,18 +209,24 @@ Data Engineering project designed to build a production-style pipeline capable o
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-<p align="center">
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afoumalorian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-afouma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afoumalorian-cmd)
+| | |
+|---|---|
+| [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afoumalorian@gmail.com)<br>[afoumalorian@gmail.com](mailto:afoumalorian@gmail.com) | [![Phone](https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33746384824)<br>+33 7 46 38 48 24 |
+| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-afouma)<br>[linkedin.com/in/elvis-afouma](https://www.linkedin.com/in/elvis-afouma) | [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afoumalorian-cmd)<br>[My GitHub Profile](https://github.com/afoumalorian-cmd) |
 
-</p>
+</div>
 
 ---
 
 <p align="center">
-  <i>Building reliable APIs, data pipelines and useful applications one project at a time.</i>
+  💡 <i>"Building useful solutions through code, data and continuous learning."</i> 💡
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE%20WITH-❤️-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING-008ECF?style=for-the-badge" />
 </p>
