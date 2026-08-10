@@ -9,7 +9,7 @@
 <h1 align="center">Hi there 👋, I'm Lorian Afouma</h1>
 
 <h3 align="center">
-  Backend Developer | Data Engineer | Mobile Developer
+  Data Engineer | Backend Developer
 </h3>
 
 <p align="center">
