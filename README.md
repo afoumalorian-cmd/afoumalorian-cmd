@@ -114,6 +114,7 @@ Data Engineering project designed to build a production-style pipeline capable o
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-2F4F4F?style=for-the-badge)
 ![Mechatronics](https://img.shields.io/badge/Mechatronics-555555?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 
 ---
