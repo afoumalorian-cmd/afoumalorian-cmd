@@ -30,15 +30,9 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Working on professional backend development for **WorkySafe**
-- 🚚 Building **Sharp Sharp**, a personal delivery application
-- 📊 Building Data Engineering projects and production-oriented data pipelines
-- 🐍 Working mainly with **Python, Django and Django REST Framework**
-- 🗄️ Working with **PostgreSQL, Redis and relational databases**
-- 🐳 Using **Docker and Docker Compose** for local and production environments
-- 📱 Building mobile applications with **Flutter and Dart**
-- 🧪 Focused on testing, maintainable architecture and code quality
-- ☁️ Improving my AWS, Cloud, CI/CD and DevOps skills
+- 💻 Data Engineer & Backend Developer
+- ☁️ Interested in Cloud, DevOps and distributed systems
+- 🤖 Engineer in Robotics & Mechatronics
 - 📍 Based in France
 
 ---
@@ -109,37 +103,17 @@ Data Engineering project designed to build a production-style pipeline capable o
 
 ## 🧠 Key Skills
 
-- REST API development with Python, Django and Django REST Framework
-- Backend architecture and business logic implementation
-- PostgreSQL database integration and relational data modeling
-- Authentication, authorization and JWT-based authentication
-- Multi-tenant application development
-- CRUD API development and custom Django ViewSet actions
-- External API integration
-- Redis caching and application performance optimization
-- Data ingestion, cleaning and transformation
-- ETL / ELT concepts and data pipeline development
-- SQL and analytical data processing
-- Structured data and Excel file processing
-- Data validation and Data Quality fundamentals
-- Docker and Docker Compose
-- Development and production environment configuration
-- Cloud deployment and application configuration
-- Unit testing and integration testing
-- API testing and frontend testing
-- pytest
-- SonarQube code-quality analysis
-- Swagger / OpenAPI documentation
-- Git, GitHub and GitLab workflows
-- Feature branch development and code reviews
-- CI/CD fundamentals
-- Big Data processing fundamentals with Apache Spark and Hadoop
-- Event streaming and distributed messaging fundamentals with Apache Kafka
-- Machine Learning and Deep Learning with TensorFlow and PyTorch
-- Mobile application development with Flutter and Dart
-- Firebase Authentication and Cloud Firestore integration
-- Google Maps and address autocomplete integration
-- Agile and Scrum project organization
+- Data Engineering & ETL / ELT pipelines
+- Python & SQL
+- Backend development & REST APIs
+- PostgreSQL & relational data modeling
+- Data cleaning, transformation & Data Quality
+- Docker, Git & CI/CD
+- Cloud & deployment
+- Testing & code quality
+- Data visualization & analytics
+- Robotics & Mechatronics
+- Mobile development
 
 ---
 
