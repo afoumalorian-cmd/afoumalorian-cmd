@@ -37,40 +37,6 @@
 
 ---
 
-## 🏆 Achievements & Completed Projects
-
-### 🌦️ Euro Weather
-
-A complete full-stack weather platform designed to provide current, historical, hourly and daily weather information, favorite-city management and location-based forecasts.
-
-The application was built from scratch, containerized, tested and successfully deployed to the cloud.
-
-> ✅ Completed and deployed.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afoumalorian-cmd/euro-weather)
-
----
-
-## 🚀 Current Projects
-
-### 🏢 WorkySafe
-
-Professional backend platform developed within my company to manage employees, services, departments, reports, business workflows and data-processing operations through secure APIs.
-
-> 🔒 The source code is private and belongs to the company.
-
-### 🚚 Sharp Sharp
-
-Personal delivery application designed to connect delivery services with users, allowing them to create, manage and track delivery orders from a mobile application.
-
-> 🔒 The repository is currently private.
-
-### ✈️ Global Flight Data Pipeline
-
-Data Engineering project designed to build a production-style pipeline capable of regularly ingesting, storing, transforming, validating and analyzing global aviation data.
-
----
-
 ## 🛠️ Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
