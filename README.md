@@ -146,7 +146,7 @@
 - 🇫🇷 French — Bilingual
 - 🇬🇧 English — Bilingual
 - 🇷🇺 Russian — Bilingual
-
+..
 ---
 
 ## 📬 Contact
