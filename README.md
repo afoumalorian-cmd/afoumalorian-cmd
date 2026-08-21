@@ -96,6 +96,7 @@
 - Cloud & deployment
 - Testing & code quality
 - Data visualization & analytics
+- Distributed Systems
 - Robotics & Mechatronics
 - Mobile development
 
@@ -120,10 +121,8 @@
 - 📊 Advanced SQL
 - 🏢 Data Warehousing
 - ☁️ AWS
-- 🚀 CI/CD
 - ☸️ Kubernetes
 - 🏛️ Advanced Backend Architecture
-- 📡 Distributed Systems
 
 ---
 
