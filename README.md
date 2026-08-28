@@ -117,7 +117,6 @@
 > 🚀 Currently strengthening my skills in **Data Engineering, AWS, CI/CD, Kubernetes and advanced backend architecture**.
 
 - 🏗️ Production-grade Data Pipelines
-- 🌬️ Apache Airflow
 - 🔄 dbt
 - 📊 Advanced SQL
 - 🏢 Data Warehousing
