@@ -148,9 +148,9 @@
 
 ## 🌍 Languages
 
-- 🇫🇷 French — Bilingual
-- 🇬🇧 English — Bilingual
-- 🇷🇺 Russian — Bilingual
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Fluent
+- 🇷🇺 Russian — Fluent
 
 ---
 
