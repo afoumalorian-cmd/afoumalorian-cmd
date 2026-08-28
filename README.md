@@ -31,8 +31,8 @@
 ## 👨‍💻 About Me
 
 - 💻 Data Engineer & Backend Developer
-- ☁️ Interested in Cloud, DevOps and distributed systems
 - 🤖 Engineer in Robotics & Mechatronics
+- ☁️ Interested in Cloud, DevOps and distributed systems
 - 📍 Based in France
 
 ---
