@@ -88,7 +88,6 @@
 ![Mechatronics](https://img.shields.io/badge/Mechatronics-555555?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internetofthings&logoColor=white)
 
-
 ---
 
 ## 🧠 Key Skills
@@ -104,7 +103,6 @@
 - Data visualization & analytics
 - Distributed Systems
 - Robotics & Mechatronics
-- Mobile development
 
 ---
 
