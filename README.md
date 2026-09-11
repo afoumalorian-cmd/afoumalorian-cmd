@@ -140,7 +140,6 @@
 - Attention to detail and code quality
 - Ability to understand business requirements
 - Autonomy and sense of responsibility
-
 ---
 
 ## 🌍 Languages
