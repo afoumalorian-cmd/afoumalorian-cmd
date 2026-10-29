@@ -114,19 +114,6 @@
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=afoumalorian-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-
-## 🔥 Currently Learning
-
-> 🚀 Currently strengthening my skills in **Data Engineering, AWS, CI/CD, Kubernetes and advanced backend architecture**.
-
-- 🏗️ Production-grade Data Pipelines
-- 🔄 dbt
-- 📊 Advanced SQL
-- 🏢 Data Warehousing
-- ☁️ AWS
-- ☸️ Kubernetes
-- 🏛️ Advanced Backend Architecture
-
 ---
 
 ## 🤝 Soft Skills
