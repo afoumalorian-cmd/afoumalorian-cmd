@@ -102,7 +102,7 @@
 - Testing & code quality
 - Data visualization & analytics
 - Distributed Systems
-- Robotics & Mechatronics
+- Robotics & Mechatronics.
 
 ---
 
