@@ -9,7 +9,7 @@
 <h1 align="center">Hi there 👋, I'm Lorian Elvis</h1>
 
 <h3 align="center">
-  Data Engineer | Backend Developer | Mechatronics & Robotics Engineer
+  Data Engineer | Mechatronics & Robotics Engineer| Backend Developer 
 </h3>
 
 <p align="center">
