@@ -33,7 +33,7 @@
 - 💻 Data Engineer & Backend Developer
 - 🤖 Engineer in Mechatronics & Robotics
 - ☁️ Interested in Cloud, DevOps and distributed systems
-- 📍 Based in France....
+- 📍 Based in France
 
 ---
 ## 🛠️ Stack & Tools
